@@ -45,3 +45,9 @@ I am a student who has now barely scratched the surface of JS!!
 <p align="left">
   <img src="https://img.shields.io/badge/NodeJs-informational?style=for-the-badge"/>
 </p>
+
+---
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav30kulkarni&show_icons=true&locale=en&layout=compact" alt="arnav30kulkarni" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav30kulkarni&" alt="arnav30kulkarni" /></p>
