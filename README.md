@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Arnav Kulkarni 
 
-I am a student who has now barely scratched the surface of JS!!
+I am a first year student who has now barely scratched the surface of JS!!,
+Learning MERN web development and DSA
 
 ---
 
@@ -42,6 +43,8 @@ I am a student who has now barely scratched the surface of JS!!
   <img src="https://img.shields.io/badge/MERN-blueviolet?style=for-the-badge"/>
 </p>
 
+- I am currently learning web development through MERN, also working on DSA 
+- I am also looking to paricipate in hackathons and contribute to open source in the future.
 ---
 
 ### 💬 Ask Me About
@@ -52,12 +55,47 @@ I am a student who has now barely scratched the surface of JS!!
 
 ---
 
+### 📍 Holopin badges
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav30kulkarni&show_icons=true&locale=en&layout=compact" alt="arnav30kulkarni" /></p>
+<p align="center">
+  <a href="https://holopin.me/arnav30kulkarni">
+    <img src="https://holopin.me/arnav30kulkarni" 
+         alt="@arnav30kulkarni's Holopin board" 
+         style="border:2px solid #444; border-radius:8px;" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav30kulkarni&show_icons=true&locale=en" alt="arnav30kulkarni" /></p>
+---
+### 📊 GITHUB STATS
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav30kulkarni&" alt="arnav30kulkarni" /></p>
+<p>
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav30kulkarni&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" 
+       alt="arnav30kulkarni" 
+       style="border:2px solid #444; border-radius:8px;" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnav30kulkarni" alt="arnav30kulkarni" /></a> </p>
+<p>
+  &nbsp;
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=arnav30kulkarni&show_icons=true&locale=en&theme=dark&hide_border=false" 
+       alt="arnav30kulkarni" 
+       style="border:2px solid #444; border-radius:8px;" />
+</p>
+
+<p>
+  <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=arnav30kulkarni&theme=dark&hide_border=false" 
+       alt="arnav30kulkarni" 
+       style="border:2px solid #444; border-radius:8px;" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=arnav30kulkarni&theme=dark&margin-w=10&margin-h=10" 
+         alt="arnav30kulkarni" 
+         style="border:2px solid #444; border-radius:8px;" />
+  </a>
+</p>
+
 
