@@ -1,102 +1,25 @@
-## 👋 Hi, I'm Arnav Kulkarni 
+# 💫 About Me:
+Hey there, I'm Arnav Kulkarni,
+I am a First year student who has now barely scratched the surface of JS!!, Learning MERN web development and DSA<br><br>
 
-I am a first year student who has now barely scratched the surface of JS!!,
-Learning MERN web development and DSA
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arnav-kulkarni-217255384) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnav30kulkarni@gmail.com) 
 
-### 🛠️ Skills
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</p>
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=arnav30kulkarni&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=arnav30kulkarni&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arnav30kulkarni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 📫 Let's Connect
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arnav30kulkarni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left">
-  <a href="www.linkedin.com/in/arnav-kulkarni-217255384" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="arnav30kulkarni@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arnav30kulkarni&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=arnav30kulkarni&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📚 Currently Learning
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MERN-blueviolet?style=for-the-badge"/>
-</p>
-
-- I am currently learning web development through MERN, also working on DSA 
-- I am also looking to paricipate in hackathons and contribute to open source in the future.
----
-
-### 💬 Ask Me About
-
-<p align="left">
-  <img src="https://img.shields.io/badge/NodeJs-informational?style=for-the-badge"/>
-</p>
-
----
-
-### 📍 Holopin badges
-
-<p align="center">
-  <a href="https://holopin.me/arnav30kulkarni">
-    <img src="https://holopin.me/arnav30kulkarni" 
-         alt="@arnav30kulkarni's Holopin board" 
-         style="border:2px solid #444; border-radius:8px;" />
-  </a>
-</p>
-
----
-### 📊 GITHUB STATS
-
-<p>
-  <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav30kulkarni&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" 
-       alt="arnav30kulkarni" 
-       style="border:2px solid #444; border-radius:8px;" />
-</p>
-
-<p>
-  &nbsp;
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=arnav30kulkarni&show_icons=true&locale=en&theme=dark&hide_border=false" 
-       alt="arnav30kulkarni" 
-       style="border:2px solid #444; border-radius:8px;" />
-</p>
-
-<p>
-  <img align="center" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=arnav30kulkarni&theme=dark&hide_border=false" 
-       alt="arnav30kulkarni" 
-       style="border:2px solid #444; border-radius:8px;" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arnav30kulkarni&theme=dark&margin-w=10&margin-h=10" 
-         alt="arnav30kulkarni" 
-         style="border:2px solid #444; border-radius:8px;" />
-  </a>
-</p>
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
